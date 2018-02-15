@@ -1,2 +1,2 @@
 # Facebook-Circles-Network-Graph
-Visualization of network graph of Facebook friend circles using Holoviews 
+This repository contains a visualization of Facebook friend circles as a netowrk graph, implemented using Holoviews 
